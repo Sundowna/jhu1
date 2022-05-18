@@ -1,2 +1,2 @@
-# jhu1
-jhu1
+# JHU Coursera
+Current Version
